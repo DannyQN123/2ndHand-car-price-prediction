@@ -7,3 +7,6 @@ Implement a Linear Regression model that predicts the price of a car, based on i
 ## Resources
 
 https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/
+
+
+![Screenshot (364)](https://user-images.githubusercontent.com/107457149/210598629-1efd4a33-6b72-45a1-aa8c-b490f2975bfe.png)
